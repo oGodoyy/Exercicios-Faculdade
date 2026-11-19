@@ -1,0 +1,16 @@
+INÍCIO
+  leia quantidade
+  soma ← 0
+  PARA i DE 1 ATÉ quantidade FAÇA
+    escreva "Nota i: "
+    leia nota
+    ENQUANTO nota < 0 OU nota > 10 FAÇA
+      escreva "Nota inválida!"
+      escreva "Digite novamente: "
+      leia nota
+    FIM ENQUANTO
+    soma ← soma + nota
+  FIM PARA
+  media ← soma / quantidade
+  escreva "Média da turma: ", media
+FIM
