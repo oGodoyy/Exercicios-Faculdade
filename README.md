@@ -1,20 +1,25 @@
-# Exercícios da Faculdade
+# Exercícios de Programação em C
 
-Este repositório foi criado para organizar e armazenar exercícios e atividades desenvolvidos durante as aulas da faculdade.
+Este repositório reúne exercícios e atividades desenvolvidos durante as aulas da faculdade, utilizando a linguagem de programação C.
 
 ## Organização
 
-Os exercícios são separados por linguagem de programação e organizados em pastas de acordo com as aulas.
+Os exercícios estão organizados em pastas de acordo com as aulas:
 
-### Linguagens
-
-- **C:** exercícios organizados da Aula-01 até a Aula-09.
-- **HTML e CSS:** espaço para atividades e projetos desenvolvidos durante as aulas.
+- Aula-01
+- Aula-02
+- Aula-03
+- Aula-04
+- Aula-05
+- Aula-06
+- Aula-07
+- Aula-08
+- Aula-09
 
 ## Objetivo
 
-Manter as atividades acadêmicas organizadas, facilitar o acesso aos exercícios e acompanhar minha evolução no aprendizado de programação.
+Organizar as atividades acadêmicas, acompanhar minha evolução no aprendizado da linguagem C e manter meus exercícios disponíveis para consulta.
 
 ---
 
-**Repositório destinado aos estudos e atividades acadêmicas.**
+**Repositório dedicado aos estudos de programação em C.**
