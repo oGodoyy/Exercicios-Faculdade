@@ -6,8 +6,6 @@ Este repositório reúne exercícios e atividades desenvolvidos durante as aulas
 
 Os exercícios estão organizados em pastas de acordo com as aulas:
 
-- Aula-01
-- Aula-02
 - Aula-03
 - Aula-04
 - Aula-05
